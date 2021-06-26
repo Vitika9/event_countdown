@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'My app',
+        title: 'Event Counter',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
